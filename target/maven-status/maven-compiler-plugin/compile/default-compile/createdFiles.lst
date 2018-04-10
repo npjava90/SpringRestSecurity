@@ -1,0 +1,6 @@
+com\basicSecurity\config\AuthenticationEntryPoint.class
+com\basicSecurity\config\SpringSecurityConfig.class
+com\basicSecurity\config\Application.class
+com\basicSecurity\config\ApplicationInitializer.class
+com\basicSecurity\model\Student.class
+com\basicSecurity\controller\StudentController.class
